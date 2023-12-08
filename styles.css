@@ -1,0 +1,8 @@
+h1 {
+    color: blue;
+    border: 2px solid red;
+    text-align: center;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
